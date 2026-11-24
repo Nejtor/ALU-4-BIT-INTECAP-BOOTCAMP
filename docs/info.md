@@ -13,7 +13,7 @@ ALU 4 BITS
 
 ## How to test
 
-Explain how to use your project
+UNA ALU QUE REALIZA OPERACIONES CON DOS NUMEROS
 
 ## External hardware
 
